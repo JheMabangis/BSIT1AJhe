@@ -1,0 +1,16 @@
+table {
+  width: 50%;
+}
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  position: relative;
+  left: 15%;
+  top: 20px;
+}
+th {
+  text-align: left;
+}
+td {
+  padding: 10px;
+}
