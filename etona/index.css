@@ -1,0 +1,28 @@
+#container {
+    border: 1px solid black;
+    height: 45%;
+    width: 38%;
+    position: absolute;
+    right: 25%;
+}
+#btn-table{
+    height: 25px;
+    width: 13%;
+    border: 1px solid black;
+    left: 18%;
+    top: 175px;
+    padding: 5px;
+    margin-bottom: 20px;
+    position: relative;
+    text-align: center;
+}
+#btn-dialog{
+    height: 25px;
+    width: 13%;
+    border: 1px solid black;
+    left: 18%;
+    top: 175px;
+    padding: 5px;
+    position: relative;
+    text-align: center;
+}

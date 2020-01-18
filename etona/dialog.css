@@ -1,0 +1,62 @@
+.container {
+    border: 1px solid black;
+    width: 94%;
+    height: 92%;
+    position: relative;
+    padding: 15px;
+}
+.name {
+    border: 1px solid black;
+    width: 15%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+input.name{
+    border: 1px solid black;
+    position: absolute;
+    right: 15px;
+    top: 12px;
+    width: 46.5%;
+    height: 10%;
+}
+
+.id {
+    border: 1px solid black;
+    width: 15%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+input.id {
+    border: 1px solid black;
+    position: absolute;
+    right: 15px;
+    width: 46.5%;
+    top: 57px;
+    height: 10%;
+}
+
+.grade {
+    border: 1px solid black;
+    width: 15%;
+    margin-bottom: 20px;
+    padding: 8px;
+}
+select {
+    position: absolute;
+    right: 15px;
+    bottom: 34%;
+    height: 17%;
+    width: 50.8%;
+    border: 1px solid black;
+}
+.save {
+    border: 1px solid black;
+    width: 15%;
+    border-radius: 12%;
+    padding: 7px;
+    position: relative;
+    left: 2px;
+    text-align: center;
+}
+
+
