@@ -1,0 +1,20 @@
+table {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  position: relative;
+}
+th {
+  text-align: left;
+}
+input {
+    height: 100%;
+    width: 87%;
+    position: relative;
+    padding: 10px;
+    left: -2px;
+}
